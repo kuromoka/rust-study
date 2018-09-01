@@ -2,4 +2,4 @@
 
 name = "hello_world"
 version = "0.0.1"
-authors = [ "kuromoka<kuromokapb@gmail.com>" ]
+authors = ["kuromoka <kuromokapb@gmail.com>"]
